@@ -17,10 +17,10 @@
 
       "TurnOnNativeBanner": false,
       "TurnOnListNative": false,
-      "TurnOnDetailsBanner": false,
+      "TurnOnDetailsBanner": true,
       "TurnOnNativeMain": false,
       "TurnOnNativeThird": false,
-      "TurnOnBannerMain": false,
+      "TurnOnBannerMain": true,
       "TurnOnInterMain": false,
       "TurnOnInterDetails": false
 
