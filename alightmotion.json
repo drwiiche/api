@@ -1,0 +1,124 @@
+
+{
+  "GuideData": {
+    "AdsController": {
+      "NetworkAds": "admob",
+
+      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+      "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+      "mopubBanner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopubInter": "24534e1901884e398f1253216226017e",
+      "mopubNative": "11a17b188668469fb0412708c3d16813",
+
+      "ImageBanner": false,
+      "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "ImageBannerURL": "https://www.google.com",
+
+      "TurnOnNativeBanner": false,
+      "TurnOnListNative": false,
+      "TurnOnDetailsBanner": false,
+      "TurnOnNativeMain": false,
+      "TurnOnNativeThird": false,
+      "TurnOnBannerMain": false,
+      "TurnOnInterMain": false,
+      "TurnOnInterDetails": false
+
+    },
+
+    "items": [{
+        "title": "Alight Motion Quick Start Guide",
+        "image": "https://www.gamezebo.com/wp-content/uploads/2021/09/boss-life-3d-screenshot-1-533x1024.jpg",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "Get Coins",
+        "setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "With Alight Motion, bringing your projects to life is simple as Add, Adjust, Animate! To help explain the basics of Alight Motion so we can to get you up and running making your own custom projects, we've created the following introductory series. \n Getting Started (Part One) covers adding and adjusting layers in your project, to get them ready for animation. \n \n https://youtu.be/JUDdyfYWweE \n \n Please note that depending your version of Alight Motion and your device, the menus may look slightly different, especially at the following times: \n Add Menu (1:00) - Vector and Freehand drawing are available from the main screen in newer versions of Alight Motion. \n Blending and Opacity (2:37) - We have added many more blending modes to Alight Motion, and they have been arranged into categories. Multiply is contained within Darken. Screen is contained within Lighten. Mask and Exclude are contained within Mask. \n Once you have added and adjusted your layer, it's now time to animate, which is covered in Getting Started - Part Two! \n \n https://youtu.be/e3waU-6VuY8 \n \n Now you're on your way to create more complicated projects! Please feel free to ask any questions in the comments of these videos, or any of our other tutorials on YouTube, we go through them regularly! \n ",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "Elements: The Complete Guide",
+        "image": "https://i.imgur.com/augsmtA.png",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "What are Elements? \n \n Elements are reusable components, very similar to groups. They are stored separately from regular projects, in the My Elements collection. \n If you find yourself using the same layers or groups over and over again in various projects, just add them to your My Elements collection and they will be conveniently available, a tap away in the add menu. \n You can also share elements with others, and download pre-made elements. \n Text that appears in an element can be customized without altering the original element—very handy for reusable titles. \n \n How to Download Elements ? \n \n you can refer to this tutorial : \n https://support.alightcreative.com/hc/en-us/articles/360021029732-Elements-The-Complete-Guide \n ",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "3- What are Retiming Marks? ",
+        "image": "https://www.gamezebo.com/wp-content/uploads/2021/09/boss-life-3d-screenshot-2-538x1024.jpg",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Every element has an intro, a middle, and an outro. Retiming marks demarcate these sections, so that when an element is placed in a project, the animations in the intro and outro are preserved, while the middle compensates for any changes in duration. Creating elements that can can be altered when placed in projects significantly increases their usability. \n \n Retiming marks appear as small yellow ticks on the timeline, as seen in the image below. They are only visible when editing the element, and not when the element is placed into a project. \n read more here : \n https://support.alightcreative.com/hc/en-us/articles/360030992351-Elements-Retiming-Marks",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "4- How do I use Animation Easing Curves?",
+        "image": "https://i.imgur.com/FhNd3Gs.png",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "What is Easing? \n \n One of the secrets to fluid-looking animation is motion that accelerates and decelerates, rather than moving at a constant rate. \n Even the world's most advanced sports car takes time to accelerate to speed. So does your hand, when you wave.\n This process of gradually speeding up and slowing down an animation is called easing. In contrast, we refer to motion at a constant rate as linear. \n read more here : https://support.alightcreative.com/hc/en-us/articles/360007063731-How-do-I-use-Animation-Easing-Curves-",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "5- Effects Guide",
+        "image": "https://www.gamezebo.com/wp-content/uploads/2021/09/boss-life-3d-screenshot-3-535x1024.jpg",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": " In Alight Motion, we offer more than a hundred effects that you can use in your projects! Please feel free to play around with these effects to create sophisticated projects and animations in Alight Motion! \n\n If you are looking for descriptions or guides for each effect, you can see them in the app when you tap each effect, or you can also visit the Alight Motion Effects Guide: https://guide.alightmotion.com/effects/. \n \n We also have a lot of tutorials in our YouTube channel, including a series about Animating in Alight Motion and many more. Please feel free to take a look here: https://www.youtube.com/c/AlightMotion/videos. \n \n Happy video making!",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "6- Brightness/Contrast",
+        "image": "https://i.imgur.com/S6bUWlE.png",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Overview \n \n Brightness/Contrast changes the brightness and contrast of a layer. It's best used with image and video layers. The effect has two parameters: Brightness, and Contrast. \n \n Brightness changes the overall lightness or darkness of a layer. Higher values of Brightness will make the layer approach white, while lower values will make the layer approach black.\n \n Contrast changes the separation of light and dark colors in a layer. Higher values of Contrast emphasize detail. Lower values of Contrast create a flatter look that emphasizes midtones.",
+        "isNative": false,
+        "background": "#222222"
+      },
+      {
+        "title": "7- Circular Ripple",
+        "image": "https://i.imgur.com/gBWNfMm.png",
+        "color": "#E4E4E4",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Circular Ripple creates a circular wave pattern on a layer, and is often used in creating the start of a dream sequence, or to simulate something being dropped into water. It has the following parameters: Center, Frequency, Strength, Phase, Radius, and Feather. \n \n Center changes the center of the ripple in relation to the center of the layer. \n\n Frequency changes the spacing between each individual wave. Increasing the value of Frequency will decrease the spacing between waves.\n\n Strength changes the amount of distortion caused by the waves, which higher values causing more distortion.\n\n Phase moves the waves inwards towards or outwards from the centre of the ripple. Using keyframe animation with this parameter can make it looks like the ripple is spreading out over time.\n\n Radius changes the distance from the center where the waves are cut off. \n\n Feather controls how smoothly the waves are cut off at the radius. Higher values of Feather cause a softer cutoff.",
+        "isNative": false,
+        "background": "#222222"
+      }
+    ]
+
+  }
+}
