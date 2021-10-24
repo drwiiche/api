@@ -1,7 +1,7 @@
 {
   "GuideData": {
     "AdsController": {
-      "NetworkAds": "admob",
+      "NetworkAds": "mopub",
 
       "BannerAdmob": "ca-app-pub-9953304407821396/6200595279",
       "InterstitialAdmob": "ca-app-pub-9953304407821396/2069778579",
@@ -15,14 +15,14 @@
       "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "ImageBannerURL": "https://www.google.com",
 
-      "TurnOnNativeBanner": false,
-      "TurnOnListNative": false,
+      "TurnOnNativeBanner": true,
+      "TurnOnListNative": true,
       "TurnOnDetailsBanner": true,
-      "TurnOnNativeMain": false,
-      "TurnOnNativeThird": false,
-      "TurnOnBannerMain": false,
+      "TurnOnNativeMain": true,
+      "TurnOnNativeThird": true,
+      "TurnOnBannerMain": true,
       "TurnOnInterMain": true,
-      "TurnOnInterDetails": false
+      "TurnOnInterDetails": true
 
     },
 
