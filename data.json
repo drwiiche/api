@@ -15,14 +15,14 @@
       "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "ImageBannerURL": "https://www.google.com",
 
-      "TurnOnNativeBanner": true,
-      "TurnOnListNative": true,
-      "TurnOnDetailsBanner": true,
-      "TurnOnNativeMain": true,
-      "TurnOnNativeThird": true,
-      "TurnOnBannerMain": true,
-      "TurnOnInterMain": true,
-      "TurnOnInterDetails": true
+      "TurnOnNativeBanner": false,
+      "TurnOnListNative": false,
+      "TurnOnDetailsBanner": false,
+      "TurnOnNativeMain": false,
+      "TurnOnNativeThird": false,
+      "TurnOnBannerMain": false,
+      "TurnOnInterMain": false,
+      "TurnOnInterDetails": false
 
     },
 
