@@ -1,8 +1,8 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "unity",
-        "InterAd": "unity",
+        "bannerAd": "max",
+        "InterAd": "max",
         "NativeAd": "admob",
         "admob_banner": "ca-app-pub-9953304407821396/9709605538",
         "admob_inter": "ca-app-pub-9953304407821396/4370499007",
